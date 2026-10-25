@@ -1,0 +1,7 @@
+{
+  "name": "고증노트",
+  "description": "창작자를 위한 국가유산 자료 조사 및 역사 고증 아카이브 연구 노트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
